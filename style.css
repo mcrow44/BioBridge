@@ -64,7 +64,7 @@
             object-fit: cover;
             margin-top: 10px;
             margin-bottom: 20px;
-            background-color: whitesmoke;
+            /* background-color: whitesmoke; */
             transition: scale 0.8s ease-in-out;
             z-index: 10;
             pointer-events: all;
