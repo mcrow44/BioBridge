@@ -24,7 +24,7 @@
             pointer-events: none;
         }
         .top-container {
-            position: fixed;
+            /* position: fixed; */
             width: 400px;
             height: 900px;
             /* margin-top: 60px; */
